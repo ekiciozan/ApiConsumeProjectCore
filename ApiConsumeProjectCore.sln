@@ -21,6 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.DtoLayer", "Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.WebUI", "Frontend\HotelProject.WebUI\HotelProject.WebUI.csproj", "{305D8AA5-16FE-4F46-A89B-1AB69FCED152}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{4398E27E-ED50-43D7-BA97-43ADEECD94F4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\ReferansMap.png = ..\..\..\Desktop\ReferansMap.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +67,7 @@ Global
 		{5D5D3022-5300-4848-AEE8-DFEEB0E2A2A0} = {3983106B-A3ED-429E-8047-E26B95D4CDF4}
 		{8F140B87-5F72-4C23-9568-FB590E856372} = {3983106B-A3ED-429E-8047-E26B95D4CDF4}
 		{305D8AA5-16FE-4F46-A89B-1AB69FCED152} = {49DE8059-C16B-42FA-B7C5-9D0D5D22AA0B}
+		{4398E27E-ED50-43D7-BA97-43ADEECD94F4} = {3B25DDBC-2FE5-4654-9C1C-7EE2DC4710A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {01151ACB-BFB6-45B8-8532-13E031105A8B}
