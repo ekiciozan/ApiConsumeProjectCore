@@ -38,7 +38,6 @@ namespace HotelProject.DataAccessLayer.Repositories
         {
             _context.Add(t);
             _context.SaveChanges();
-
         }
 
         public void Update(T t)
