@@ -19,5 +19,5 @@ namespace HotelProject.EntityLayer.Concrete
         public string Description { get; set; }
     }
 }
-}
+
 
