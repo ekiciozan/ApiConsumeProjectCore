@@ -47,7 +47,6 @@ namespace HotelProject.WebApi
             services.AddScoped<ITestimonialService, TestimonialManager>();
 
 
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
