@@ -1,1 +1,11 @@
-Api Testi & Swagger
+- Katmanlarýn Ayarlanmasý
+(Entity, DB context, Business, EF Classlarý vs.)
+
+- Api Katmanýnýn Kodlanmasý
+(Controllerlar, Tema Yüklenmesi,Partial Views vs. Swagger'dan tetiklenmesi)
+
+- Api Consume Ýþlemleri
+(UI katmanýndan Api katmanýna istek ve view's da görüntülenmesi)
+
+- Dto Katmanýnýn Yazýlmasý
+(Required vs gibi annotation'larýn kullanýlmasý)
