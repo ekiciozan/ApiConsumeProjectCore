@@ -9,3 +9,6 @@
 
 - Dto Katmanýnýn Yazýlmasý
 (Required vs gibi annotation'larýn kullanýlmasý)
+
+- AutoMapper Kullanýlmasý
+(Dto ile Entity' i baðlamak için AutoMapper kullanýlmalý)
