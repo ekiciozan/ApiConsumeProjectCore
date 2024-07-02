@@ -11,4 +11,4 @@
 (Required vs gibi annotation'larýn kullanýlmasý)
 
 - AutoMapper Kullanýlmasý
-(Dto ile Entity' i baðlamak için AutoMapper kullanýlmalý1)
+(Dto ile Entity' i baðlamak için AutoMapper kullanýlmalý)
