@@ -12,3 +12,5 @@
 
 - AutoMapper Kullanýlmasý
 (Dto ile Entity' i baðlamak için AutoMapper kullanýlmalý)
+
+-Test
