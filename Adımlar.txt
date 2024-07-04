@@ -1,16 +1,17 @@
-- Katmanların Ayarlanması
-(Entity, DB context, Business, EF Classları vs.)
+ï»¿- KatmanlarÃ½n AyarlanmasÃ½
+(Entity, DB context, Business, EF ClasslarÃ½ vs.)
 
-- Api Katmanının Kodlanması
-(Controllerlar, Tema Yüklenmesi,Partial Views vs. Swagger'dan tetiklenmesi)
+- Api KatmanÃ½nÃ½n KodlanmasÃ½
+(Controllerlar, Tema YÃ¼klenmesi,Partial Views vs. Swagger'dan tetiklenmesi)
 
-- Api Consume İşlemleri
-(UI katmanından Api katmanına istek ve view's da görüntülenmesi)
+- Api Consume ÃÃ¾lemleri
+(UI katmanÃ½ndan Api katmanÃ½na istek ve view's da gÃ¶rÃ¼ntÃ¼lenmesi)
 
-- Dto Katmanının Yazılması
-(Required vs gibi annotation'ların kullanılması)
+- Dto KatmanÃ½nÃ½n YazÃ½lmasÃ½
+(Required vs gibi annotation'larÃ½n kullanÃ½lmasÃ½)
 
-- AutoMapper Kullanılması
-(Dto ile Entity' i bağlamak için AutoMapper kullanılmalı)
+- AutoMapper KullanÄ±lmasÄ±
+(Dto ile Entity' i baÃ°lamak iÃ§in AutoMapper kullanÃ½lmalÃ½)
 
--Test
+ -Identity - Login Ä°ÅŸlemleri
+(Identity KÃ¼tÃ¼phanesi iÃ§in nugetten asp.netcore idenety ve ef olan kurulur ve Db Context, identtiy'den miras alÄ±r ve migration iÅŸlemleri yapÄ±lÄ±r. )
